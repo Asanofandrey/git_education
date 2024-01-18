@@ -1,5 +1,5 @@
-def my_func(slovo):
-    print(slovo)
+def my_func(x, y):
+    return x * y
 
 
-my_func('Привет')
+print(my_func(10, 5))
