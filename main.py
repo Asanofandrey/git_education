@@ -1,2 +1,5 @@
-def my_func():
-    print('Hello')
+def my_func(x):
+    print(x)
+
+
+my_func('Привет')
