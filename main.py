@@ -1,4 +1,5 @@
 def my_func(x):
-    print(x*2)
+    print(x * 2)
 
-my_func(5)
+
+my_func('Привет')
